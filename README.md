@@ -1,58 +1,43 @@
-# 🧠 Pro Memory Match
+# 🧠 Pro Memory Match Game
 
-A modern and interactive **Memory Card Matching Game** built using **HTML, CSS, and JavaScript**.
+A modern and interactive Memory Card Matching Game built using **HTML, CSS, and JavaScript**.
 
-This project showcases frontend development skills including UI design, animations, DOM manipulation, game state management, and responsive layout techniques.
-
----
-
-## 🌐 Live Demo
-
-> (Add your deployed link here if hosted on GitHub Pages or Netlify)
+This project demonstrates frontend development skills including UI design, animations, DOM manipulation, game logic, and state management.
 
 ---
 
-## 📸 Preview
-
-> Add a screenshot here  
-> (You can drag and drop an image inside GitHub README after uploading it)
-
----
-
-## ✨ Features
+## 🚀 Features
 
 - 🎨 Animated gradient background
 - 🧊 Glassmorphism UI design
-- 🔄 Smooth 3D card flip animation
-- 🔊 Sound effect on card interaction
-- ⏱️ Real-time timer
-- 🎯 Move counter tracking
-- ✨ Neon glow effect for matched cards
-- 🎉 Confetti animation on victory
-- 🔁 Game reset without page reload
-- 📱 Responsive layout for different screen sizes
+- 🔄 3D card flip animation
+- 🔊 Sound effects on card flip
+- ⏱️ Live timer
+- 🎯 Move counter
+- ✨ Neon glow effect on matched cards
+- 🎉 Confetti celebration on win
+- 🔁 Reset game without page reload
+- 📱 Responsive layout
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Technologies Used
 
-| Technology | Purpose |
-|------------|----------|
-| HTML5 | Structure & layout |
-| CSS3 | Styling, animations, 3D transforms |
-| JavaScript (ES6) | Game logic & DOM manipulation |
-| Canvas Confetti | Win celebration effect |
+- **HTML5** – Structure
+- **CSS3** – Styling, animations, 3D transforms
+- **JavaScript (ES6)** – Game logic & DOM manipulation
+- **Canvas Confetti CDN** – Win celebration effect
 
 ---
 
-## 🎮 How It Works
+## 🎮 How to Play
 
-- Cards are shuffled randomly at game start.
-- Timer begins on first card flip.
-- Player flips two cards per move.
-- If symbols match → cards stay flipped.
-- If not → cards flip back after delay.
-- Game ends when all pairs are matched.
+1. Click on any card to flip it.
+2. Flip two cards to find matching pairs.
+3. If the cards match, they stay flipped.
+4. If not, they flip back automatically.
+5. Match all pairs to win the game.
+6. Try to finish in minimum moves and time!
 
 ---
 
