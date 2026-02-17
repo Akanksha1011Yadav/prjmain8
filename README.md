@@ -41,5 +41,5 @@ This project demonstrates frontend development skills including UI design, anima
 
 ---
 
-## 📂 Project Structure
+
 
